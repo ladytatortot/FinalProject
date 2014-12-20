@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fname: MyString
+  lname: MyString
+  type: 
+  hiredate: 2014-12-20
+  tenure: 1
+
+two:
+  fname: MyString
+  lname: MyString
+  type: 
+  hiredate: 2014-12-20
+  tenure: 1

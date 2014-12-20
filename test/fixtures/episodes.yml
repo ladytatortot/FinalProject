@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  length: MyString
+  airdate: 2014-12-20
+  rating: 9.99
+  guest_host: 
+  season: 
+
+two:
+  length: MyString
+  airdate: 2014-12-20
+  rating: 9.99
+  guest_host: 
+  season: 

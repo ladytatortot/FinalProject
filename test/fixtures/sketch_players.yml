@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sketch: 
+  player: 
+  season: 
+
+two:
+  sketch: 
+  player: 
+  season: 
